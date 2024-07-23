@@ -5,4 +5,5 @@
     - kajlew1@gmail.com
     - www.linkedin.com/in/kajetan-lewkowicz
 - 🌱 I don't want to limit myself to specific technologies, but these are the ones I currently have the most experience with:
+  
   [![My Skills](https://skillicons.dev/icons?i=java,spring,ts,react,tailwind,aws,dockerfigma&theme=dark)](https://skillicons.dev)
