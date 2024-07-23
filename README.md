@@ -5,3 +5,7 @@
 - 🌱 I don't want to limit myself to specific technologies, but these are the ones I currently have the most experience with:
   
   [![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,ts,react,tailwind,aws,docker&theme=dark)](https://skillicons.dev)
+
+- 📌 Have a look at my pinned projects, both are deployed and accessible under:
+    - https://neurorezerwacje.pl
+    - https://bondprofit.eu
