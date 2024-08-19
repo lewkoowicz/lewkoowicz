@@ -1,6 +1,6 @@
 ## Hi 👋
 
-- 🔭 I'm a determined fullstack developer with background in logistics, sales and data analysis, where I gained overall business knowledge and honed my interpersonal skills. I am a fast learner focused on continuous growth,
+- 🔭 I'm a determined software developer with background in logistics, sales and data analysis, where I gained overall business knowledge and honed my interpersonal skills. I am a fast learner focused on continuous growth,
 - 📫 How to reach me: kajlew1@gmail.com
 - 📌 Have a look at my pinned projects, one of them is deployed and accessible under:
     - https://neurorezerwacje.pl
